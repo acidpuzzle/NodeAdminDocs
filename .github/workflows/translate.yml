@@ -3,12 +3,12 @@ name: Auto Translate Documentation
 on:
   push:
     branches:
-      - main  # Замените на master, если у вас старая ветка по умолчанию
+      - master  # Изменено на master, так как это ваша ветка по умолчанию
     paths:
-      - '**.rst'  # Запускается только если изменился текст документации
+      - '**.rst'  # Скрипт сработает только тогда, когда вы измените текст документации
 
 permissions:
-  contents: write  # Дает право боту пушить переводы обратно в ваш Git
+  contents: write  # Дает право GitHub-боту пушить автопереводы обратно в ваш репозиторий
 
 jobs:
   translate:
@@ -30,9 +30,9 @@ jobs:
 
       - name: Extract text and update PO files
         run: |
-          # Собираем новые строки из .rst в шаблоны .pot
+          # Собираем новые русские строки из .rst в шаблоны .pot
           sphinx-build -b gettext source build/gettext
-          # Обновляем файлы перевода для английского языка (en)
+          # Обновляем файлы перевода для английского языка
           sphinx-intl update -p build/gettext -l en
 
       - name: Run Python Auto-Translation Script
@@ -42,6 +42,7 @@ jobs:
           import polib
           from deep_translator import GoogleTranslator
 
+          # Настройка перевода с русского (ru) на английский (en)
           translator = GoogleTranslator(source='ru', target='en')
           po_dir = 'locale/en/LC_MESSAGES'
 
@@ -58,7 +59,7 @@ jobs:
                       
                       print(f"Проверяем файл: {file}")
                       for entry in po:
-                          # Переводим только пустые строки или строки с пометкой fuzzy
+                          # Переводим только пустые строки или строки с пометкой fuzzy (требующие проверки)
                           if not entry.msgstr or 'fuzzy' in entry.flags:
                               if entry.msgid.strip():
                                   try:
