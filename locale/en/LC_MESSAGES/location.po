@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: NodeAdmin документация \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-18 16:59+0300\n"
+"POT-Creation-Date: 2026-09-18 16:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -20,21 +20,21 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.18.0\n"
 
-#: ../../source/location/location.rst:2 469b638c99d7435498448c2c40da02ca
+#: ../../source/location/location.rst:2 18a714969b4046c7a40a51bd9dbd9537
 msgid "Локация"
 msgstr ""
 
-#: ../../source/location/location.rst:4 d84f4d92f5184cd1b968d46c7f3b581e
+#: ../../source/location/location.rst:4 36da0d006e4f4d62942ff87e19c46f93
 msgid ""
 "*Локация* — это физическая или логическая сущность, которая занимает "
 "определенное место в иерархическом дереве."
 msgstr ""
 
-#: ../../source/location/location.rst:6 95279affe95e4493af90e61b1dc7e403
+#: ../../source/location/location.rst:6 35702e43683048ac973b0caa320d2574
 msgid "Пример иерархии:"
 msgstr ""
 
-#: ../../source/location/location.rst:12 dcc3496a0530402386365dc611958500
+#: ../../source/location/location.rst:12 64d6708b87f54294b664b81bb77ff20f
 msgid ""
 "Каждый элемент в этой цепочке (проект, организация, офис, этаж, "
 "помещение, стойка) является локацией."
@@ -42,180 +42,192 @@ msgstr ""
 "Each element in this chain (project, organization, office, floor, room, "
 "workstation) is a location."
 
-#: ../../source/location/location.rst:14 5aa1534b54574ff585b502b2ea7e95b6
+#: ../../source/location/location.rst:14 eae4f70ad2124a59afb5ae2ab914634e
 msgid ""
 "Область видимости локации определяется её положением в дереве и "
 "подчиняется двум правилам:"
 msgstr ""
 
-#: ../../source/location/location.rst:16 215287602c544691bb299539a8b6bc0a
+#: ../../source/location/location.rst:16 eca1db8cf9f84d968a261acc85c096d9
 msgid ""
 "**Нисходящая полная видимость:** Любой узел дерева имеет доступ ко всем "
 "сущностям, находящимся ниже него в его поддереве."
 msgstr ""
 
-#: ../../source/location/location.rst:17 4665ef23235049d38e2ccd397745faaa
+#: ../../source/location/location.rst:17 8f347a33b59e49a58876d92842b6fe4d
 msgid ""
 "**Восходящая контекстная видимость:** Любой узел видит всю цепочку своих "
 "родительских узлов вплоть до корня (Root), наследуя их контекст."
 msgstr ""
 
-#: ../../source/location/location.rst:22 03ae9b9303334b54a7916e4b58b79335
+#: ../../source/location/location.rst:22 62aef12850af4dbab54fba1a4bd783bb
 msgid "Поля формы"
 msgstr ""
 
-#: ../../source/location/location.rst:24 bae379999a134487b135795519a6590f
-msgid "**Name**"
+#: ../../source/location/location.rst:24 22049a69ce6b45eba53410f3ad958bf0
+msgid "**Name** - название локации"
 msgstr ""
 
-#: ../../source/location/location.rst:26 c6609558215e402b8b870b7f8c99d9f2
-msgid "**description**"
+#: ../../source/location/location.rst:26 b81a36521d0740b2bbe501074be36b26
+msgid "**description** - коментарий"
 msgstr ""
 
-#: ../../source/location/location.rst:28 f503891b275a45499550acb2c3f6fb93
-msgid "**type**"
+#: ../../source/location/location.rst:28 8fc012fe15fb4911815e53f5463f7155
+msgid "**type** - тип локации, выбирается из выпадаюшего списка."
 msgstr ""
 
-#: ../../source/location/location.rst:30 3ba8d1d44d124b14ac67cb7f8e15add1
+#: ../../source/location/location.rst:30 70bfc917a69c491db7f3ee23b352fb8a
 msgid "**Location is active**"
 msgstr ""
 
-#: ../../source/location/location.rst:32 a3f81642e8564af280e93d44a870e580
+#: ../../source/location/location.rst:32 dfc58f601fd5491cb3b91810afce72d9
 msgid "**Position**"
 msgstr ""
 
-#: ../../source/location/location.rst:37 9c57081d26034cbaba04afb3f4ebe9e1
+#: ../../source/location/location.rst:37 478eb9f3f28449f283cc38203bf10da9
 msgid "Уникальность"
 msgstr ""
 
-#: ../../source/location/location.rst:39 81bb5a2ced494252afcb7526822e9f9d
+#: ../../source/location/location.rst:39 c183fad0cc814cc3a1ad6656191e6bc7
 msgid "Уникальность достигается ..."
 msgstr ""
 
-#: ../../source/location/location.rst:44 3ea5c7be184f46c2be570371fccc5025
+#: ../../source/location/location.rst:44 305067f225154ae193075a270e50a9e8
 msgid "Фильтры"
 msgstr ""
 
-#: ../../source/location/location.rst:46 57df19cff53f402fa85b7826bdb03a6b
+#: ../../source/location/location.rst:46 88683e36562e445385c0a2860a647c75
 msgid "Какие есть фильтры"
 msgstr ""
 
-#: ../../source/location/location.rst:51 ea69e8fd3b734102a11ada29d060b3ab
+#: ../../source/location/location.rst:51 49af76a798cf42d38b51a11e8915f42e
 msgid "Действия"
 msgstr ""
 
-#: ../../source/location/location.rst:53 ef9d3ec04b324968bbb600c29fa2ae7e
-msgid "Какие есть действия"
+#: ../../source/location/location.rst:53 be74288997454d89b42a50bf7fc2c95a
+msgid "Какие есть действия, какие?"
 msgstr ""
 
-#: ../../source/location/location.rst:58 235c1723e8954dbf95975f24ff3f810d
+#: ../../source/location/location.rst:58 f31311fdc793457ebe09538e7bbdba32
 msgid "Колонки в базе"
 msgstr ""
 
-#: ../../source/location/location.rst:61 29eaecc718894b8a8e0f55000b12b1cd
+#: ../../source/location/location.rst:61 2061562471204013874efa5ab975f660
 msgid "Колонка"
 msgstr ""
 
-#: ../../source/location/location.rst:61 8a31569b268343e18fed74fcdeb80e20
+#: ../../source/location/location.rst:61 2cdc25d432b94213a8ebbb0c19762a29
 msgid "Тип"
 msgstr ""
 
-#: ../../source/location/location.rst:61 1d372a832ae4475e936a398ea7fd29fb
+#: ../../source/location/location.rst:61 533e45b534074a2b9dba49abca0f353a
 msgid "Not Null"
 msgstr ""
 
-#: ../../source/location/location.rst:61 7c2010ceba4b4e4fb3a8bc2466af1018
+#: ../../source/location/location.rst:61 410794a8e64f4b3d872e98024e72427e
 msgid "По умолчанию"
 msgstr ""
 
-#: ../../source/location/location.rst:61 19bab5612f4844fab76e1aabc247a929
+#: ../../source/location/location.rst:61 2018b3e526c24ff8b35f293fac73da89
 msgid "Коментарий"
 msgstr ""
 
-#: ../../source/location/location.rst:63 e2ef70f8cb8e4f5dbe4a464e11df2cd0
+#: ../../source/location/location.rst:63 e12c8a9c5f48456b80e4191d92c339b9
 msgid "path"
 msgstr ""
 
-#: ../../source/location/location.rst:63 98c9881acb8e4da7a01042553d185d64
+#: ../../source/location/location.rst:63 c893d5b090d14c4ab82c67ad5af648c5
 msgid "varchar(255)"
 msgstr ""
 
 #: ../../source/location/location.rst:63 ../../source/location/location.rst:69
 #: ../../source/location/location.rst:73 ../../source/location/location.rst:75
-#: 2d0dbbc5e826464aa1943688bd86ac1e 3bf856c3de0b4915bfd56eaf3d1f71f6
-#: c960666ed7554d49b0f912fd10b0e75b ed879b25bf144ab29dbd59104e6ad316
+#: 5db8ee5dbd1149dea28c810c6c2145ad adf0e7329c374b208792fd25f3a9a5ac
+#: b0940550aea44a90b25880c6114f34f7 ebc7e912096e4819b0e6de59d168cba3
 msgid "Да"
 msgstr ""
 
 #: ../../source/location/location.rst:63 ../../source/location/location.rst:65
 #: ../../source/location/location.rst:67 ../../source/location/location.rst:71
-#: 0b88ded1c8284b6092d73d3246acccf1 5f25819817db4fb3a0afaf09b88aef4d
-#: 8ba2314d231b467297d7ada94dfa2625 a4d2077187404066bd1d0063aeff75bc
-#: c8dfbd5992364b0b9ad255ddb753d2e8 e6841a7162e74f4c80c576c7092a8987
-#: f37efc60474f415d9bfaf82932e4d5a9
+#: 1beb011b6249475598246ace246d2288 3203cc29a3684b579539d877471e50cb
+#: 4948680085a04a0e8d7ce3a24d3bde09 73b8f3ed524b4da4a2eb8cb53d0a596b
+#: 75d73872972d4464abbb7ca224e25d40 854bfe89a3f3481e84af9fd638601775
+#: 8685335d454c4d86adb3da6260f1440f
 msgid "Нет"
 msgstr ""
 
-#: ../../source/location/location.rst:65 db535f14373b41b599a1e64c8b4e6ada
+#: ../../source/location/location.rst:65 c7458ef5a4b4460ab31bea4d4db6ed40
 msgid "description"
 msgstr ""
 
 #: ../../source/location/location.rst:65 ../../source/location/location.rst:67
-#: 1d3641bca6f44c5cb9f7cf69200fe40c 37ff4d802d0942fab89702d30f69f97b
+#: 0e1eeee74c3d45729ff1985fe3a4ba02 48d31a77d28d42ddae0328162d0c94ff
 msgid "Текст"
 msgstr ""
 
-#: ../../source/location/location.rst:67 e263ee84f93b4dc3886d066819e32934
+#: ../../source/location/location.rst:67 d2c2b38fb99040508e572a24f9235cdb
 msgid "type"
 msgstr ""
 
 #: ../../source/location/location.rst:69 ../../source/location/location.rst:73
-#: ../../source/location/location.rst:75 628e6b06ab1a416b970afcf76ebf7d13
-#: 683a7878952f4d418b1814f237883395 86eee9c7dbec433c97343423b65f3e01
+#: ../../source/location/location.rst:75 4091769cd2fb4203b7ef13da85577417
+#: 56c67cc213c94da4b31df1c31c504131 d2102cb19d5c44deae14611bdcecfdc6
 msgid "Location is active"
 msgstr ""
 
 #: ../../source/location/location.rst:69 ../../source/location/location.rst:73
-#: ../../source/location/location.rst:75 10948405d80f4a1281d0b2d2dd088cab
-#: c046b6c232384cbea2ac9e75655ff449 d386b79b0c494aeb985e0be56c261cfb
+#: ../../source/location/location.rst:75 2a70458b88b349b09dc389446fac856c
+#: ee80fa11257e41c7acdf6ed51902ad2b f7209e2d910d4054a32bfde766f0c3a6
 msgid "Bool"
 msgstr ""
 
 #: ../../source/location/location.rst:69 ../../source/location/location.rst:73
-#: ../../source/location/location.rst:75 155a0d26ff6342a086708645c6af5252
-#: 64d0e759e98e4560a8c9492982c8c903 708b9e74735f4705b6e352625f51ca74
+#: ../../source/location/location.rst:75 65ec1953727841d48d3e609fa0d91a71
+#: 8c8ef4fe85014cf29c1af40baf39a04a 936c713911a94753a2ba23a8ed730f94
 msgid "True"
 msgstr ""
 
-#: ../../source/location/location.rst:71 203a4bc8e2ae4112ab278d2ecb656769
+#: ../../source/location/location.rst:71 50e090c11a5a440f811d221196798d10
 msgid "Position"
 msgstr ""
 
-#: ../../source/location/location.rst:71 6e604cba30574ca7b3561d8249eb1543
+#: ../../source/location/location.rst:71 681f820b06b14863b304b980aafe51a8
 msgid "Не храниться"
 msgstr ""
 
-#: ../../source/location/location.rst:71 c2b653e74fd141a0ac4019bb174908b4
+#: ../../source/location/location.rst:71 c1ed261506e94a78ae146ab50cc7cfcf
 msgid "Позиция"
 msgstr ""
 
 #: ../../source/location/location.rst:73 ../../source/location/location.rst:75
-#: 9b1ebe8744f144cfbc4f6eb96a47c55f dd84aff37f53472e82453360dc4a7225
+#: 385921d6faa647e2a6c91e7100dd1fc7 d7caebc174a54dae99e9da36a5036b49
 msgid "Активная или нет"
 msgstr ""
 
-#: ../../source/location/location.rst:81 a1ccf1b38c314e1f9db24807e12cb878
+#: ../../source/location/location.rst:81 357ce3056f52484aaa3327cfeb36c49e
 msgid "Зависимости"
 msgstr ""
 
-#: ../../source/location/location.rst:83 96d3152d23644b0e84e7f32ba3904c47
+#: ../../source/location/location.rst:83 7aeebd7ba10f45bb8824c6b92944ce29
 msgid "**На кого ссылается**"
 msgstr ""
 
-#: ../../source/location/location.rst:85 895c98ca97c14c09857c7a2324fd2560
+#: ../../source/location/location.rst:85 8820d8e508774590b8404fd34850ed2a
 msgid "**Кто ссылается**"
 msgstr ""
 
 #~ msgid "*Root -> Проект -> Организация -> Офис -> Этаж -> Помещение -> Стойка*"
+#~ msgstr ""
+
+#~ msgid "**Name**"
+#~ msgstr ""
+
+#~ msgid "**description**"
+#~ msgstr ""
+
+#~ msgid "**type**"
+#~ msgstr ""
+
+#~ msgid "Какие есть действия"
 #~ msgstr ""
 
