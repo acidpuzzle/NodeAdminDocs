@@ -27,6 +27,10 @@ jobs:
       - name: Install dependencies
         run: |
           pip install sphinx sphinx-intl polib deep-translator
+          # Проверяем, есть ли requirements.txt, и устанавливаем его
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          # Если requirements.txt лежит внутри папки docs, раскомментируйте строку ниже:
+          # if [ -f docs/requirements.txt ]; then pip install -r docs/requirements.txt; fi
 
       - name: Extract text and update PO files
         run: |
