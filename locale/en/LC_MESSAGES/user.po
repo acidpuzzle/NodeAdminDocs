@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Павлов Алексей
+# This file is distributed under the same license as the NodeAdmin
+# документация package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NodeAdmin документация \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-18 15:53+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/user/group.rst:2 6b5be7544a104fd2b4149e126a09836f
+msgid "Группа"
+msgstr ""
+
+#: ../../source/user/group.rst:4 ../../source/user/user.rst:4
+#: ce68f3890921435eafea2af2d617aa3d e51a0b812e62481996f36b658c7c919e
+msgid "*Имя сушности* — это ..."
+msgstr ""
+
+#: ../../source/user/group.rst:9 ../../source/user/user.rst:9
+#: 217b2ff1f9e2428db89896a4e193da53 dad3f922baea436ca62ebe1cd1550d7f
+msgid "Поля формы"
+msgstr ""
+
+#: ../../source/user/group.rst:11 ../../source/user/user.rst:11
+#: dde527dc7b1f4481999acaa57dd3af7d e1c0de5d16fc4832af675a3b9e8ddbb2
+msgid "**Name** - это ... ..."
+msgstr ""
+
+#: ../../source/user/group.rst:17 ../../source/user/user.rst:17
+#: d27e40a3afb54b8e9ac1a40f8be439ff e845767a4ff444c6bb337f4970cf0437
+msgid "Уникальность"
+msgstr ""
+
+#: ../../source/user/group.rst:19 ../../source/user/user.rst:19
+#: 0b10718ad3cc451888e3304433a96650 2ea04f12a1474f8ab8145db04d698f82
+msgid "Уникальность достигается ..."
+msgstr ""
+
+#: ../../source/user/group.rst:24 ../../source/user/user.rst:24
+#: 4c5d7c6e8c68460d969798a72f6c96f9 cc4f6ed1219c416bbddf330cdf5e87e5
+msgid "Колонки в базе"
+msgstr ""
+
+#: ../../source/user/group.rst:27 ../../source/user/user.rst:27
+#: 54cf7e3818244f599f0ac334c4dfc83a 93d3883822bc41fdb4c93252fd61dc55
+msgid "Колонка"
+msgstr ""
+
+#: ../../source/user/group.rst:27 ../../source/user/user.rst:27
+#: 53f1bf39dac9400e96225e6ac9936b6f c2e5bf2ee5024b20a197507c54b83713
+msgid "Тип"
+msgstr ""
+
+#: ../../source/user/group.rst:27 ../../source/user/user.rst:27
+#: 7ac7185b71754a81b98472c8cca0efc8 96b0462113434f498894c30b57705d97
+msgid "Not Null"
+msgstr ""
+
+#: ../../source/user/group.rst:27 ../../source/user/user.rst:27
+#: 482308077b3748a7a32ee0e3d59321b0 d74b8f9fdf824ae7886d3c5b3a0b2214
+msgid "По умолчанию"
+msgstr ""
+
+#: ../../source/user/group.rst:27 ../../source/user/user.rst:27
+#: cf26726468e6493daef21a2065d37808 f10c8f36a6ae474980d80e1a9df4504e
+msgid "Коментарий"
+msgstr ""
+
+#: ../../source/user/group.rst:29 ../../source/user/user.rst:29
+#: 5d455befa10c47199aa1b66b5e026aef 6fc450bf496241e2813687f911b3c2b3
+msgid "name"
+msgstr ""
+
+#: ../../source/user/group.rst:29 ../../source/user/user.rst:29
+#: 402bdfb97daa4db19cf37fc6b9ef8bea 6056afe7572f41e4a0a4a91943155a54
+msgid "varchar(255)"
+msgstr ""
+
+#: ../../source/user/group.rst:29 ../../source/user/user.rst:29
+#: 1889cd98e04a4d26a1361c3cf5c5c744 90221eb03efb40d7bad5348fd8496545
+msgid "Да"
+msgstr ""
+
+#: ../../source/user/group.rst:29 ../../source/user/user.rst:29
+#: 75ad9ae84f6e45d5aa999f760cc8b25f ba7f8d2032fd4fb58e79d58a7c980533
+msgid "Нет"
+msgstr ""
+
+#: ../../source/user/group.rst:36 ../../source/user/user.rst:36
+#: 50f2ad35679d4ba0aa7d7731ed2393f9 ca06dce22fb7478c8ecd122338309bfe
+msgid "..."
+msgstr ""
+
+#: ../../source/user/group.rst:41 ../../source/user/user.rst:41
+#: 4240865ccef647ad8a17c55d11ee9bc5 43c9926ed37f47f086de0f7af335df13
+msgid "Зависимости"
+msgstr ""
+
+#: ../../source/user/group.rst:43 ../../source/user/user.rst:43
+#: b5279956dc074e028b6cb1b2c08e6f47 fc3780646408432681fa1f8c43c7f9cb
+msgid "**На кого ссылается**"
+msgstr ""
+
+#: ../../source/user/group.rst:45 ../../source/user/user.rst:45
+#: 071c301f168f4577aa8eb7d3f55bf5eb 2bbe9d360c3541bcbf8a5af8248a369a
+msgid "**Кто ссылается**"
+msgstr ""
+
+#: ../../source/user/user.rst:2 990e7e8fac7644c486639719b34432f2
+msgid "Пользователь"
+msgstr ""
+

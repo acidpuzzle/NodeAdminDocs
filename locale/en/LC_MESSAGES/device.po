@@ -1,0 +1,301 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Павлов Алексей
+# This file is distributed under the same license as the NodeAdmin
+# документация package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NodeAdmin документация \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-18 15:53+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/device/cli_profile.rst:2 5c66ab76f9e944a1835a58b215dcd77e
+msgid "CLI профиль"
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:4 1756ef61e91847c191c931c8c214c3c5
+msgid "*CLI профиль* — это ..."
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:9 ../../source/device/device.rst:9
+#: ../../source/device/device_role.rst:9 ../../source/device/device_user.rst:9
+#: ../../source/device/interface.rst:9 ../../source/device/interface_type.rst:9
+#: ../../source/device/model.rst:9 ../../source/device/vendor.rst:9
+#: 220e34cd382a42cda88dcf4970048eca 41ceab48fde549fa9b0dd1839a8bf9ae
+#: 43ced50b1c3445a6825f550fb73a78b5 6a41d062967f4b8fb29bda61103c75f9
+#: 6fe5f79d2abe4cefa4b4010de6a4ad2e c381531f321645809bf820ca8bc67064
+#: c7db4cc1ddcc44e48016cbb7f1cfb24c d600c9476891416db3682a52b2438e72
+msgid "Поля формы"
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:11 ../../source/device/device.rst:11
+#: ../../source/device/device_role.rst:11
+#: ../../source/device/device_user.rst:11 ../../source/device/interface.rst:11
+#: ../../source/device/interface_type.rst:11 ../../source/device/model.rst:11
+#: ../../source/device/vendor.rst:11 0c541063632e4504adc017681eaa39bb
+#: 36d30dadb6eb415990f1788a83e8a1bd af258f601bc044e695353fc9a8e07d57
+#: bbf4a799af29492eb4310ba45269c97d cc9b4ccf74c845f2a35c135f9b89458e
+#: ce735871dbac43b8abcf7b38ff0acce3 eeb8e6e35ac54462983692c74a269275
+#: fb8952d5b64c426a883a7658027c5da6
+msgid "**Name** - это ... ..."
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:17 ../../source/device/device.rst:17
+#: ../../source/device/device_role.rst:17
+#: ../../source/device/device_user.rst:17 ../../source/device/interface.rst:17
+#: ../../source/device/interface_type.rst:17 ../../source/device/model.rst:17
+#: ../../source/device/vendor.rst:17 3dc13a2ddf794a8ca1f362918a2baa6f
+#: 42f570505abd4050b8d6d967ead26789 5726d67a865b44fcada088cb8970e6f6
+#: 7045d57d461f4a3284a4265bc7323aa8 a9e395a86c9a432ca585a5d310996ceb
+#: c5397237100649eaa27ac9941f190b7a f0394864728944a58c1665231e527c97
+#: f937cef4a9704d9db83dc20c585716ff
+msgid "Уникальность"
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:19 ../../source/device/device.rst:19
+#: ../../source/device/device_role.rst:19
+#: ../../source/device/device_user.rst:19 ../../source/device/interface.rst:19
+#: ../../source/device/interface_type.rst:19 ../../source/device/model.rst:19
+#: ../../source/device/vendor.rst:19 0f1c12fd767b4e4993f9a0fc93be9e31
+#: 315e459a06a44eac9df14b8e67007009 4e09da9ff98c4f70af92738a185da82f
+#: 54cf1da34c364d0d86fd2f91e03d7138 574a3f2b8e9e44db82eeace6307f6ae4
+#: 706ba61ff46b45cab7ce72138fa56f9a b183f802bad248538e78975d59b2d945
+#: ca0056667cc24309b2491b1f2b083250
+msgid "Уникальность достигается ..."
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:24 ../../source/device/device.rst:24
+#: ../../source/device/device_role.rst:24
+#: ../../source/device/device_user.rst:24 ../../source/device/interface.rst:24
+#: ../../source/device/interface_type.rst:24 ../../source/device/model.rst:24
+#: ../../source/device/vendor.rst:24 0682eda5890444a4b839791624551ac0
+#: 12eb30ad96e1498993350cb0a08df202 6b06a0dceba24c479a102607fe351000
+#: 777029dd139240319657efe1dfad8b49 7b7f67fe37294d9698c225809527df69
+#: ad3d5ddd9743479ab599815a1575717d bfab8ee0843540b985042da6bf4b6c90
+#: fcab955c0f034742af131caae93f56f7
+msgid "Колонки в базе"
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:27 ../../source/device/device.rst:27
+#: ../../source/device/device_role.rst:27
+#: ../../source/device/device_user.rst:27 ../../source/device/interface.rst:27
+#: ../../source/device/interface_type.rst:27 ../../source/device/model.rst:27
+#: ../../source/device/vendor.rst:27 02a3abe109ae4c6bb908a3e4a6162b94
+#: 18838726ad0849cfb2357365f7b3885c 192495099168464f9dbc6992511fe18b
+#: 1f2d580b36284e84b8bc2f8b94bd5ea5 1f38c2d5be014569b01c27bb2dff0d64
+#: 7144131ac6514f219ead6e3f95b0aad8 72c882656b9844f994802912ebd1543a
+#: 9a717cbd96bd4267b06f59993e94578e
+msgid "Колонка"
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:27 ../../source/device/device.rst:27
+#: ../../source/device/device_role.rst:27
+#: ../../source/device/device_user.rst:27 ../../source/device/interface.rst:27
+#: ../../source/device/interface_type.rst:27 ../../source/device/model.rst:27
+#: ../../source/device/vendor.rst:27 007dc530412047d5bd5785839bafafef
+#: 0c31a5f4145f427ab0c9dc986198c5b9 19c7f5fbbfd94a80a8576e3b4f34351b
+#: 554baa5c225d44bd930136746d783f5e af95830860c84d7d85850d368849195b
+#: ce1b97a848164b20a83a307825278cf1 e1540cd62ff842b1ab601cafac604d5e
+#: f1b1bad2a7d34b2690df6512d2ab2eb4
+msgid "Тип"
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:27 ../../source/device/device.rst:27
+#: ../../source/device/device_role.rst:27
+#: ../../source/device/device_user.rst:27 ../../source/device/interface.rst:27
+#: ../../source/device/interface_type.rst:27 ../../source/device/model.rst:27
+#: ../../source/device/vendor.rst:27 0e370a48be764c39a37b0975b54e9301
+#: 36e4d9bb16e24cb0b078450fe14abfc8 559a196a961a4a4c952b6ac271dd5d31
+#: 7f347f2c2681498b924d365cb78653ac 99da5fc0fd8f49c2875fd6984aafed58
+#: aa374434bd9f435591c06f45a60c5791 c93242b71b52410882545728a94c088e
+#: d83cb68913904c83890dcdff28cc9a87
+msgid "Not Null"
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:27 ../../source/device/device.rst:27
+#: ../../source/device/device_role.rst:27
+#: ../../source/device/device_user.rst:27 ../../source/device/interface.rst:27
+#: ../../source/device/interface_type.rst:27 ../../source/device/model.rst:27
+#: ../../source/device/vendor.rst:27 029fbab889214ba4a4bd30f3c1ae9595
+#: 2972d2741be64e959110037954e3763e 74953a9c86aa476ea0a58cfcccadb38b
+#: 7e6b99dd65e84e34b6ba34733c745a48 86739d98f6c44a7289bf0a15b31d7d91
+#: 929068dbffe24b2b9457dad33a8c7a31 95d132ad061e49d58cd7701659cafaec
+#: a5b67ab431024829b80a281d041b0e99
+msgid "По умолчанию"
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:27 ../../source/device/device.rst:27
+#: ../../source/device/device_role.rst:27
+#: ../../source/device/device_user.rst:27 ../../source/device/interface.rst:27
+#: ../../source/device/interface_type.rst:27 ../../source/device/model.rst:27
+#: ../../source/device/vendor.rst:27 0dbe4b56d9824606a97c7e9c717cce45
+#: 1d43b8aade8c4f3daab19c91e34d6180 3008d8e1d63c448ab6de29ec8988b9ab
+#: 3f9237a136d941e28d1f441e5296c197 43f998b8cb6b4178b2e0c8a31655bcd8
+#: 612d76d4cd854e72aeaaaa6a169e7644 779ebb6b35ed4c83a468a9a777b5a920
+#: edc5e1cc3f7b4ff3a97533ddea3a6054
+msgid "Коментарий"
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:29 ../../source/device/device.rst:29
+#: ../../source/device/device_role.rst:29
+#: ../../source/device/device_user.rst:29 ../../source/device/interface.rst:29
+#: ../../source/device/interface_type.rst:29 ../../source/device/model.rst:29
+#: ../../source/device/vendor.rst:29 0d444349adc84c98ae4c0098aa488533
+#: 1a36067b979c41ceb3869b9f9335c0cc 1b39787cf8424488908d8dcee4a43eba
+#: 2ca88ac8e61c49f99fd9d5a2f97eced0 85ac5bb2783f46af82d93b7157cdb079
+#: 8fcdab88f22047a48f60b7b807253685 af1a034eb9af4144ac5c9422db307e23
+#: ed31788168b04be090a738ede75e6837
+msgid "name"
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:29 ../../source/device/device.rst:29
+#: ../../source/device/device_role.rst:29
+#: ../../source/device/device_user.rst:29 ../../source/device/interface.rst:29
+#: ../../source/device/interface_type.rst:29 ../../source/device/model.rst:29
+#: ../../source/device/vendor.rst:29 4c06b4a1a8b34462a5d139fc4c7a7653
+#: 50bf9eaf65404c0db5b0717daf914e1b 5709df98d6484b969f000aeedb3cbb72
+#: 642166343ebe4f73811334cdf0838369 7e272ad038134e28aec7aab2161402b9
+#: 9fb3009af7384a0492ec9f27289f256c b35878b230234428a9fad7ede684da0e
+#: fa8bbb1e138345a0967452e7db5cafc8
+msgid "varchar(255)"
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:29 ../../source/device/device.rst:29
+#: ../../source/device/device_role.rst:29
+#: ../../source/device/device_user.rst:29 ../../source/device/interface.rst:29
+#: ../../source/device/interface_type.rst:29 ../../source/device/model.rst:29
+#: ../../source/device/vendor.rst:29 1b4111fba5154dcf84a2726117521e46
+#: 229253fd72904ec59929e2db45c9b60c 35055187eba64d5f9508d8f90ffc8cbe
+#: 4d6da9530d25479aa10cb77392811a4e 59d02b03a55543abb1b12c33d6462fa6
+#: 606bd8950aa0485fb939e150a3d8b198 67ec99a6df4e47c89fc2e22b89553388
+#: 6ca922b7d93a472089ece23b1c2a05df
+msgid "Да"
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:29 ../../source/device/device.rst:29
+#: ../../source/device/device_role.rst:29
+#: ../../source/device/device_user.rst:29 ../../source/device/interface.rst:29
+#: ../../source/device/interface_type.rst:29 ../../source/device/model.rst:29
+#: ../../source/device/vendor.rst:29 003af4ccaaec4b76bee5ffb1759b5d7c
+#: 0e57bd3017e94968a2b99c9d5c215131 1a61aeb8a5654dcfa495ce9f1b269356
+#: 6d80199bcf2e420783ba28b85af6f5cc 88fadaf3b4f240c7b905492f1fa1bdea
+#: 8d4d7bc1b19d432ea816c52d521323e6 acad918304ac487cb1006494c47113ec
+#: d4b99484533046c3a9620064c9a9dffb
+msgid "Нет"
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:36 ../../source/device/device.rst:36
+#: ../../source/device/device_role.rst:36
+#: ../../source/device/device_user.rst:36 ../../source/device/interface.rst:36
+#: ../../source/device/interface_type.rst:36 ../../source/device/model.rst:36
+#: ../../source/device/vendor.rst:36 13ee18a8f1c3457ea2364e3d026a08c7
+#: 2f87b9c36bbf4847b05218d62b482dce 3a6735b2f3974862bc9ad4765a03d994
+#: 47d159930c7841d3b75e95d33b278fba 4c7aff6171cd4bd5a2fe7deb6dcb551f
+#: 5c1723dbdc2a4a1e96b5778648fb1c00 aa008ab7225b41ebbfe97466d6eb34c3
+#: ae89f7df65f0467ba2d0d687883c253d
+msgid "..."
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:41 ../../source/device/device.rst:41
+#: ../../source/device/device_role.rst:41
+#: ../../source/device/device_user.rst:41 ../../source/device/interface.rst:41
+#: ../../source/device/interface_type.rst:41 ../../source/device/model.rst:41
+#: ../../source/device/vendor.rst:41 01a4e8b5d2a646f5aacd8e4e347405ae
+#: 1190f3105d6e4751a20001df884b3ca0 59de3e865f2b4ed3b713b96e8815e0fd
+#: 9a411a37dd1642a3a3d0047711fea3d1 ad902cf281654feb8dc084d7839bf56e
+#: b6105d5e0b0e4411ba40a1ff1298c6d6 eddf2c56ae9d4f01b063e9cf19a7a821
+#: f80391419e5c4a1ab564058d6f52f936
+msgid "Зависимости"
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:43 ../../source/device/device.rst:43
+#: ../../source/device/device_role.rst:43
+#: ../../source/device/device_user.rst:43 ../../source/device/interface.rst:43
+#: ../../source/device/interface_type.rst:43 ../../source/device/model.rst:43
+#: ../../source/device/vendor.rst:43 007fac4fe81a4ea282db1f03c5a7bfdf
+#: 316239d7d9de4e9784939bcc1106112c 3c44c3c9f5e14c059822cd4b29b81a3d
+#: 5bea9cfb01e349d2a8c3593ad4dbdeb1 941a8a255f814088b9eca402a3569832
+#: b6f9eb834a934b09b69873c5bb358083 edd8495723b4440295cb7e3a55ba201c
+#: f78dc3781aa647b2a36a3e7e7d084800
+msgid "**На кого ссылается**"
+msgstr ""
+
+#: ../../source/device/cli_profile.rst:45 ../../source/device/device.rst:45
+#: ../../source/device/device_role.rst:45
+#: ../../source/device/device_user.rst:45 ../../source/device/interface.rst:45
+#: ../../source/device/interface_type.rst:45 ../../source/device/model.rst:45
+#: ../../source/device/vendor.rst:45 2da4f54d830c4f71aff75efa72f86f55
+#: 3adb4849949648229463f8c3f549299d 4e816a64b2f24a9685886aba287c5624
+#: 5f89f8a58c1c41598e1c70c9f42ee78c 6184dfaf3a0847659e47b002067962ec
+#: 632adbbe472747dba4652dc014b618ec 9252be73250043e6a22dba2b0035e838
+#: e769e61a2fb14c9699d0c0b642bdeab9
+msgid "**Кто ссылается**"
+msgstr ""
+
+#: ../../source/device/device.rst:2 18d70cb8620c426c9f9182198d45c8ac
+msgid "Устройство"
+msgstr ""
+
+#: ../../source/device/device.rst:4 d3b16e2b265b460189364419384a9414
+msgid "*Устройство* — это ..."
+msgstr ""
+
+#: ../../source/device/device_role.rst:2 f3325a292312490bb262b4b759ab2d41
+msgid "Роль устройства"
+msgstr ""
+
+#: ../../source/device/device_role.rst:4 fa7f5ca7e4e74f828ae77eeaee2f7ce1
+msgid "*Роль устройства* — это ..."
+msgstr ""
+
+#: ../../source/device/device_user.rst:2 459fbc48964440a4ba4f448813079129
+msgid "Пользователь устройства"
+msgstr ""
+
+#: ../../source/device/device_user.rst:4 edde41219ff44fa095dc66d66f64f1f1
+msgid "*Пользователь устройства* — это ..."
+msgstr ""
+
+#: ../../source/device/interface.rst:2 f1cb271828de4ad195e3a66deff149fb
+msgid "Интерфейс"
+msgstr ""
+
+#: ../../source/device/interface.rst:4 bb3a399b0723497ca40ecfad340eada5
+msgid "*Интерфейс* — это ..."
+msgstr ""
+
+#: ../../source/device/interface_type.rst:2 37d6444575b1439fbf1caf97943b1469
+msgid "Тип интерфейса"
+msgstr ""
+
+#: ../../source/device/interface_type.rst:4 8623ec07b065499fb87e376335cd69f5
+msgid "*Тип интерфейса* — это ..."
+msgstr ""
+
+#: ../../source/device/model.rst:2 10d75299782840e5a773beededc1840f
+msgid "Модель устройства"
+msgstr ""
+
+#: ../../source/device/model.rst:4 ef4bc07e0cfe4d258598e8321275c4bd
+msgid "*Модель устройства* — это ..."
+msgstr ""
+
+#: ../../source/device/vendor.rst:2 2a6d200f8afb48019f705b129de36169
+msgid "Производитель устройства"
+msgstr ""
+
+#: ../../source/device/vendor.rst:4 5d19dafa1b5a423291e15155e433587c
+msgid "*Производитель устройства* — это ..."
+msgstr ""
+

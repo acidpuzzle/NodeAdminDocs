@@ -1,0 +1,314 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Павлов Алексей
+# This file is distributed under the same license as the NodeAdmin
+# документация package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NodeAdmin документация \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-18 15:53+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/network/acl.rst:2 4f786acba341438d8553927f3ffa357a
+msgid "ACL"
+msgstr ""
+
+#: ../../source/network/acl.rst:4 8dc434aec3fa4ee08117c9ff60f31a87
+msgid "*ACL* — это ..."
+msgstr ""
+
+#: ../../source/network/acl.rst:9 ../../source/network/acl_rule.rst:9
+#: ../../source/network/domain.rst:9 ../../source/network/ipaddress.rst:9
+#: ../../source/network/network.rst:9 ../../source/network/network_type.rst:9
+#: ../../source/network/security_zone.rst:9 ../../source/network/vlan.rst:9
+#: ../../source/network/vrf.rst:11 2780c131c9734162b383da3f42e0057d
+#: 6662170e3a3848e890b019f9bb446aee 7474ddef78cd483dbeab5d8cf806bf3d
+#: 9b66268c530f45e1ae2b7e7db5d21c46 a49d4fa72cb948c4a2c771752001bc63
+#: acaee8d407684c32a2583ccea9774e7c c9a4390cc92e4a6f89ea3809e858957e
+#: cbc9cf031a4a4bc8b1eb1ed5567b8257 dd7b3eb30338422a9c3b4ed5092f0316
+msgid "Поля формы"
+msgstr ""
+
+#: ../../source/network/acl.rst:11 ../../source/network/acl_rule.rst:11
+#: ../../source/network/domain.rst:11 ../../source/network/ipaddress.rst:11
+#: ../../source/network/network.rst:11 ../../source/network/network_type.rst:11
+#: ../../source/network/security_zone.rst:11 ../../source/network/vlan.rst:11
+#: ../../source/network/vrf.rst:13 185ada77f3d840a1b598a0218ad865e0
+#: 376e67c1d1754139a152f67f9e0c34e9 46a1fa7b4dc8498eb22ce9458dd064b3
+#: 5cd0b6a32c6e4cc7820f5d0a0c819b20 64755f97cf914e57a62ca05f5bdc9ad1
+#: 8c400ad9263a4f73bd4ead1c50f1b253 a9f7e4095a884606a3726b8527e03552
+#: c04044260be844199ac357c5e5f6168d ead21a76b5634bcf9fe0fb22bc7ab4af
+msgid "**Name** - это ... ..."
+msgstr ""
+
+#: ../../source/network/acl.rst:17 ../../source/network/acl_rule.rst:17
+#: ../../source/network/domain.rst:17 ../../source/network/ipaddress.rst:17
+#: ../../source/network/network.rst:17 ../../source/network/network_type.rst:17
+#: ../../source/network/security_zone.rst:17 ../../source/network/vlan.rst:17
+#: ../../source/network/vrf.rst:19 00ab9a42fc0b44e0b61be716c77466f8
+#: 2d184c3ab2b34eb7b56a5cf92c00d72b 3356758e679144b88b7ab43b6cbf2f2e
+#: 5299a77d04734436ab5cdb616e28403c 5ea119927eb7436598be4a436bad98c8
+#: a566b352d9e14171b3f92aa06807c0bd bbbf16d5d7c2410b9a248bc46a7d33d1
+#: bd04c5645b714a079688fc54917a8677 dbfd87efecd04ef481fdb3166fa24aef
+msgid "Уникальность"
+msgstr ""
+
+#: ../../source/network/acl.rst:19 ../../source/network/acl_rule.rst:19
+#: ../../source/network/domain.rst:19 ../../source/network/ipaddress.rst:19
+#: ../../source/network/network.rst:19 ../../source/network/network_type.rst:19
+#: ../../source/network/security_zone.rst:19 ../../source/network/vlan.rst:19
+#: ../../source/network/vrf.rst:21 07db27d4207c41eb8dd26bef2a1ac788
+#: 4433070972bb4c5080fd5e049e4489e9 44d20ec9954043e5a9d394c07518d889
+#: 582b633e856a413f87f3303157319166 90b2a925758241de8cd0177025e37cc3
+#: a45debbdefbd464ca5d5ffb8d7d017cc b37b731672ce4c3490a76465cf4d5dd1
+#: bfa8fab1500041db87200a572b79e3ff fdad18982f1c4d69bd7b7fcfd9fc721c
+msgid "Уникальность достигается ..."
+msgstr ""
+
+#: ../../source/network/acl.rst:24 ../../source/network/acl_rule.rst:24
+#: ../../source/network/domain.rst:24 ../../source/network/ipaddress.rst:24
+#: ../../source/network/network.rst:24 ../../source/network/network_type.rst:24
+#: ../../source/network/security_zone.rst:24 ../../source/network/vlan.rst:24
+#: ../../source/network/vrf.rst:26 23195af9f4074f38a26869a8e8ca7f11
+#: 626c62657d1c41a2ae4947262a9cb7cd 6663202cbbcb4709988f872fa837050f
+#: 68b04e052cde4a929e8317aa4b135c16 6ee66b3be38c497e8f99d349a00c2483
+#: 953b333131274b2d9ac72e5627f1a06f cd0fc425f62e408b88911175732c1700
+#: d905c67a7a4d45f6ae7811abfb6ca97b e77e1b1f396a43e0bbcb40ddfb3e7599
+msgid "Колонки в базе"
+msgstr ""
+
+#: ../../source/network/acl.rst:27 ../../source/network/acl_rule.rst:27
+#: ../../source/network/domain.rst:27 ../../source/network/ipaddress.rst:27
+#: ../../source/network/network.rst:27 ../../source/network/network_type.rst:27
+#: ../../source/network/security_zone.rst:27 ../../source/network/vlan.rst:27
+#: ../../source/network/vrf.rst:29 0789c1b83bf34702ab71e186f0d37700
+#: 25c6ca0bbd03407d8d0846f81b832b6c 69e25b86b50e43e185026e2c7326461a
+#: 728faa8ead7d4669a05336ea843a1bfb 9e8f8da0cf0f42e4b18d7ce4c5adcc9b
+#: b1d04ec7f6eb4917bfa462e02437030f b2099b27016c4a049d4e308428da6851
+#: d7e30b61ea274c92965c700d676eb1ba e409276c46b14b0aa18bad04a8c55819
+msgid "Колонка"
+msgstr ""
+
+#: ../../source/network/acl.rst:27 ../../source/network/acl_rule.rst:27
+#: ../../source/network/domain.rst:27 ../../source/network/ipaddress.rst:27
+#: ../../source/network/network.rst:27 ../../source/network/network_type.rst:27
+#: ../../source/network/security_zone.rst:27 ../../source/network/vlan.rst:27
+#: ../../source/network/vrf.rst:29 10d8319dfa9d49b1b3ec69917b5e4c8f
+#: 765a048267a8438889d4be37d913c634 928cb9f75e6040f6a1d03fe99ed26727
+#: a3cef2a268144faf95e9c46a4a197a3d befb60c50e724f0f9c1a9095aab15a52
+#: d2b2b7e461654aa6b92a4a42fefd767f d4e96dd98bb94b3480839d10419250d2
+#: fb4c3013442c4c149415f1a100d28a6c fcb1eeac62cc47de9bc0e965752bd486
+msgid "Тип"
+msgstr ""
+
+#: ../../source/network/acl.rst:27 ../../source/network/acl_rule.rst:27
+#: ../../source/network/domain.rst:27 ../../source/network/ipaddress.rst:27
+#: ../../source/network/network.rst:27 ../../source/network/network_type.rst:27
+#: ../../source/network/security_zone.rst:27 ../../source/network/vlan.rst:27
+#: ../../source/network/vrf.rst:29 095161ac5ca84997827ee33bfc77c1ea
+#: 145b8ea844e447fe8567a368fc891fae 1867bdd20de6411399e294ef036d2cd0
+#: 2835c95239b14f41a5ebcf559748ac60 341c34f387c549c286f4f5349fbda8dd
+#: 49156dc37dbf4a1583b0fd1dc1899db7 4d9a4e78c1f74011899b39eb3c2698ee
+#: 9acf89b3435b41288df16ab959ae4f52 ea313a7e9c204832902750699ebc4f17
+msgid "Not Null"
+msgstr ""
+
+#: ../../source/network/acl.rst:27 ../../source/network/acl_rule.rst:27
+#: ../../source/network/domain.rst:27 ../../source/network/ipaddress.rst:27
+#: ../../source/network/network.rst:27 ../../source/network/network_type.rst:27
+#: ../../source/network/security_zone.rst:27 ../../source/network/vlan.rst:27
+#: ../../source/network/vrf.rst:29 251288bdb0024adeac149c038ba61ccf
+#: 2613f1d50c914c6bb7f379aea40652ca 2f0c47f69d7a453fba46019d953c02bf
+#: 5851a0f006ad43af881ee8a4b0201f39 6c8c7648220d403b841e359894e589c2
+#: 89b89c950d824056a00c9ee0c6eda27b 99aa0ca51c6c4510bd8a7f0d67956227
+#: d52beee34aa24aaeb0545ae8614779ac e39e4a2226b349a3bdd5a4611da699aa
+msgid "По умолчанию"
+msgstr ""
+
+#: ../../source/network/acl.rst:27 ../../source/network/acl_rule.rst:27
+#: ../../source/network/domain.rst:27 ../../source/network/ipaddress.rst:27
+#: ../../source/network/network.rst:27 ../../source/network/network_type.rst:27
+#: ../../source/network/security_zone.rst:27 ../../source/network/vlan.rst:27
+#: ../../source/network/vrf.rst:29 3c8f2abf716d42c498f34aaa1aa6a1e6
+#: 58397f41e5164e4aad6f0677ab31748d 6092b6ffebc44e128d56e8d684b974e7
+#: 69b2a423bcb142558a5d3306f1efddd6 776689b0aa2f49fcb14863f13113a7b1
+#: 79a0a4571a434dd58131a37db55b5ed8 9d87e2190d004cf9b11f673ba5bbceff
+#: e994a50f75a64795988f1e98a634028b fb5c89a60895420b801a4c09f6351685
+msgid "Коментарий"
+msgstr ""
+
+#: ../../source/network/acl.rst:29 ../../source/network/acl_rule.rst:29
+#: ../../source/network/domain.rst:29 ../../source/network/ipaddress.rst:29
+#: ../../source/network/network.rst:29 ../../source/network/network_type.rst:29
+#: ../../source/network/security_zone.rst:29 ../../source/network/vlan.rst:29
+#: ../../source/network/vrf.rst:31 0ae10a31ce13442fa7751830a82461c5
+#: 2b5c53000dfa4917a31642f651cbc5aa 4867001b3fef4ba5ac73ef3fb621b1bd
+#: 7634d059d42a49029898d186088a0905 7d6e6abff0b342aa9e6a4a20e30a5ad1
+#: bd1ddeb3df7d4597b29df92b527f2633 c72e3c29da3e42d0806e29fa658c085e
+#: d470904eab794b5aac50684cd50a705c e3bb55c413f141d1a2a915e24d7a4de3
+msgid "name"
+msgstr ""
+
+#: ../../source/network/acl.rst:29 ../../source/network/acl_rule.rst:29
+#: ../../source/network/domain.rst:29 ../../source/network/ipaddress.rst:29
+#: ../../source/network/network.rst:29 ../../source/network/network_type.rst:29
+#: ../../source/network/security_zone.rst:29 ../../source/network/vlan.rst:29
+#: ../../source/network/vrf.rst:31 56f29f0fed7a4761b7e7f419ae7e98f7
+#: 5c358128c97347a39a3e89d478814374 7e0776cbd08a4ac89547b86014cd2cc7
+#: a2a82ac1a8784919a13cca59ec8f5c83 bfd7eaf1d1624f8fa218fafa1de372ba
+#: c7e9d8eb24be4d34a35c7797b907da2a c98d6e52062d47ca848d32a0b14c7c4e
+#: ca78f47be1564be69ba6b3156825db76 fafb0c63df294c4f982b5691da0a2bdc
+msgid "varchar(255)"
+msgstr ""
+
+#: ../../source/network/acl.rst:29 ../../source/network/acl_rule.rst:29
+#: ../../source/network/domain.rst:29 ../../source/network/ipaddress.rst:29
+#: ../../source/network/network.rst:29 ../../source/network/network_type.rst:29
+#: ../../source/network/security_zone.rst:29 ../../source/network/vlan.rst:29
+#: ../../source/network/vrf.rst:31 113a116cb19b478281cb1cfd03c75e5e
+#: 131f64e1585d4454b6bf0cc28aa3b317 1fbe4c920eb74bc3a2c5254a2c322710
+#: 27f5f1600ee347dc80631285e6f6e65a 2ff06e6e16eb44f0bea8135172a8305b
+#: 3109304d1a6c4e87b7dafebb82aa5baf 400ab8a27400413ba531a69a191b6ac8
+#: 8e702231a5a143388ac9314e30beda1a e676c73e9e9c46d8b3b47378727ead38
+msgid "Да"
+msgstr ""
+
+#: ../../source/network/acl.rst:29 ../../source/network/acl_rule.rst:29
+#: ../../source/network/domain.rst:29 ../../source/network/ipaddress.rst:29
+#: ../../source/network/network.rst:29 ../../source/network/network_type.rst:29
+#: ../../source/network/security_zone.rst:29 ../../source/network/vlan.rst:29
+#: ../../source/network/vrf.rst:31 08e3499f1f3e464dacf1c37faa83c381
+#: 23172cae3dc34f4585be6bfce773f3f0 54cca1665aaa4445a752353604b520fc
+#: 6732b4dc8e4a457ba42d9f1bee3aed79 7c2c4195f6884361ad22e68ff276fe9c
+#: a848fcdb51d543c98bb377b4216b145a c04dba90beb2465fa5935e31adb2f0ee
+#: e17ea7f9f7c743958844aa936ef01208 faad87bb06b04597a8e435f295c668f7
+msgid "Нет"
+msgstr ""
+
+#: ../../source/network/acl.rst:36 ../../source/network/acl_rule.rst:36
+#: ../../source/network/domain.rst:36 ../../source/network/ipaddress.rst:36
+#: ../../source/network/network.rst:36 ../../source/network/network_type.rst:36
+#: ../../source/network/security_zone.rst:36 ../../source/network/vlan.rst:36
+#: ../../source/network/vrf.rst:38 078890aa47a843d7bce8b5ad7cd0cafb
+#: 5361b7909cd947edbb597fad83fe0609 59ae199c8e024852b185882cba604e4a
+#: 91c112bd63b94aa5ac6654df64a74259 b69dfd77f25e4a42ab6bafbdc9df21da
+#: c17a98556083431f8c0f5bd45321f7f7 cfa68525664242b59c414dfe67a89af3
+#: e9238051136a4113875f1f7712942bf5 fbf5c9de10f14d878410a351c9dbd5a3
+msgid "..."
+msgstr ""
+
+#: ../../source/network/acl.rst:41 ../../source/network/acl_rule.rst:41
+#: ../../source/network/domain.rst:41 ../../source/network/ipaddress.rst:41
+#: ../../source/network/network.rst:41 ../../source/network/network_type.rst:41
+#: ../../source/network/security_zone.rst:41 ../../source/network/vlan.rst:41
+#: ../../source/network/vrf.rst:43 1c6a8508ae234510a4186809ad5d7e0b
+#: 4700ee34b0a9422c9d117a60383d70ff 659c8336b8494dc2883cc1827cda793e
+#: 710281ca70614ebebab9a4fba60e77f1 7bfd5ccc38e64be79654f6a52a908d68
+#: 9f4a8696d8c94a78a9755b1b6a8cbc91 abc62b9b4f4b409cacd1d45664056c34
+#: ae14a3c029574065811ae7ae743fa08f bbe654ff406541fc852230a5739d314c
+msgid "Зависимости"
+msgstr ""
+
+#: ../../source/network/acl.rst:43 ../../source/network/acl_rule.rst:43
+#: ../../source/network/domain.rst:43 ../../source/network/ipaddress.rst:43
+#: ../../source/network/network.rst:43 ../../source/network/network_type.rst:43
+#: ../../source/network/security_zone.rst:43 ../../source/network/vlan.rst:43
+#: ../../source/network/vrf.rst:45 10e344982a6f4fb29affed237b571918
+#: 35838e738fdd4e76898e0550c25ef30f 37a439ae53114e58a4d3801eba67b394
+#: 3b3fc6d104284505a89469c135374613 95fbb5716a9846ca90fbe6fbca497d98
+#: c0fb6b474d714ffc804a5cb7dfc460ab c4ec616999944ec19c7d26d656712ef7
+#: da51d9affd6b4440925b74cd07d5f631 e59a94c388094cc7866a333308f459b2
+msgid "**На кого ссылается**"
+msgstr ""
+
+#: ../../source/network/acl.rst:45 ../../source/network/acl_rule.rst:45
+#: ../../source/network/domain.rst:45 ../../source/network/ipaddress.rst:45
+#: ../../source/network/network.rst:45 ../../source/network/network_type.rst:45
+#: ../../source/network/security_zone.rst:45 ../../source/network/vlan.rst:45
+#: ../../source/network/vrf.rst:47 11f8de82ea74444fb03f9827158a257f
+#: 47a42d8448e3442eb7287c0c997663b6 62dbe14a03654812852d11046ade9e76
+#: 6b3dd3abd0784cc5b3037da9059d89e5 7286284f680749afb2fe36ab5c02f932
+#: ab0910c97b0244b1acd1ad479a0d8dee adb766da15154fb3a0e5d9ba23a7843d
+#: ea42503099c145bfa24344175a57eabd f81daab885694e4ebf53cc3a95513935
+msgid "**Кто ссылается**"
+msgstr ""
+
+#: ../../source/network/acl_rule.rst:2 c1e33a4940ad4c98ba86a232e7fc383f
+msgid "ACL правило"
+msgstr ""
+
+#: ../../source/network/acl_rule.rst:4 bc764b32aaa842cca16c304ebd79fe23
+msgid "*ACL правило* — это ..."
+msgstr ""
+
+#: ../../source/network/domain.rst:2 c63674df3cfc4b72b98091fb22f6b8f5
+msgid "Домен"
+msgstr ""
+
+#: ../../source/network/domain.rst:4 3a5945becd6343f7b4bcca3ae5b4479e
+msgid "*Домен* — это ..."
+msgstr ""
+
+#: ../../source/network/ipaddress.rst:2 1aedad199be445cea6a7aadaff02446f
+msgid "IP адрес"
+msgstr ""
+
+#: ../../source/network/ipaddress.rst:4 34e545bb28ee40139c44d485b0765101
+msgid "*IP адрес* — это ..."
+msgstr ""
+
+#: ../../source/network/network.rst:2 8fe396b28c774a1ca8a747f164567b4c
+msgid "Сеть"
+msgstr ""
+
+#: ../../source/network/network.rst:4 1c4c346712a5401697de2415c0e0e5de
+msgid "*Сеть* — это ..."
+msgstr ""
+
+#: ../../source/network/network_type.rst:2 e10108d643cd46ed8e0bf7431ee83035
+msgid "Тип сети"
+msgstr ""
+
+#: ../../source/network/network_type.rst:4 455e0758826b4196a3890894ef135427
+msgid "*Тип сети* — это ..."
+msgstr ""
+
+#: ../../source/network/security_zone.rst:2 cdf0f309e9d345c791c0aee376a72114
+msgid "ZBF зона"
+msgstr ""
+
+#: ../../source/network/security_zone.rst:4 7e5b110afba74459a6eb68598dd8f823
+msgid "*ZBF зона* — это ..."
+msgstr ""
+
+#: ../../source/network/vlan.rst:2 46a5fa0be5f04cfb97a8c6536d20cfb4
+msgid "VLAN"
+msgstr ""
+
+#: ../../source/network/vlan.rst:4 93dcdbbd83cf4209a7b34478ee179c9a
+msgid "*VLAN* — это ..."
+msgstr ""
+
+#: ../../source/network/vrf.rst:2 fec6ed0e1e5d4181bdd7bbba07c4241c
+msgid "VRF"
+msgstr ""
+
+#: ../../source/network/vrf.rst:4 4902b568b4284d2faea141580d5083cc
+msgid ""
+"*Virtual Routing and Forwarding (VRF)* —  — это технология виртуализации "
+"на сетевом уровне (Layer 3), которая позволяет нескольким независимым "
+"таблицам маршрутизации существовать на одном физическом маршрутизаторе "
+"одновременно."
+msgstr ""
+

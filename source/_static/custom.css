@@ -1,0 +1,87 @@
+/* ==========================================================================
+   1. ШРИФТЫ ДЛЯ КОДА (JetBrains Mono)
+   ========================================================================== */
+@font-face {
+    font-family: 'JetBrains Mono';
+    /* Исправлено: убрали '_static/', так как CSS уже находится внутри этой папки */
+    src: url('fonts/JetBrainsMono-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'JetBrains Mono';
+    src: url('fonts/JetBrainsMono-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Применяем JetBrains Mono к элементам кода */
+code, pre, kbd, .rst-content tt, .rst-content code {
+    font-family: 'JetBrains Mono', SFMono-Regular, Menlo, Monaco, Consolas, monospace !important;
+}
+
+
+/* ==========================================================================
+   2. ШРИФТЫ ДЛЯ ТЕКСТА (Google Sans)
+   ========================================================================== */
+/* Обычный текст (Regular без 17pt) */
+@font-face {
+    font-family: 'Google Sans';
+    src: url('fonts/GoogleSans-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Курсив (Italic) */
+@font-face {
+    font-family: 'Google Sans';
+    src: url('fonts/GoogleSans-Italic.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Жирный текст для заголовков (Берем из серии 17pt, он изящнее) */
+@font-face {
+    font-family: 'Google Sans Display';
+    src: url('fonts/GoogleSans_17pt-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* ==========================================================================
+   3. ПРИМЕНЕНИЕ Google Sans К ИНТЕРФЕЙСУ ТЕМЫ
+   ========================================================================== */
+/* Применяем обычный Google Sans к телу документации, спискам, таблицам */
+body, .wy-nav-top, .wy-form, p, li, span, td {
+    font-family: 'Google Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+}
+
+/* Применяем Google Sans Display к заголовкам всех уровней */
+h1, h2, h3, h4, h5, h6, .wy-nav-side .wy-side-nav-search .wy-dropdown a {
+    font-family: 'Google Sans Display', 'Google Sans', -apple-system, sans-serif !important;
+}
+
+/* Применяем шрифт к заголовкам примечаний и предупреждений */
+.rst-content .admonition-title, .rst-content .admonition p.admonition-title {
+    font-family: 'Google Sans Display', 'Google Sans', -apple-system, sans-serif !important;
+    font-weight: 700 !important;
+}
+
+/* 1. Принудительно задаем JetBrains Mono для кода, номеров строк и всех вложенных элементов */
+.tab-set .tab-content pre,
+.tab-set .tab-content code,
+.tab-set .tab-content span,
+.tab-set .tab-content .linenos {
+    font-family: 'JetBrains Mono', SFMono-Regular, Menlo, Monaco, Consolas, monospace !important;
+}
+
+/* 2. Применяем Google Sans к названиям вкладок */
+.tab-set .tab-label {
+    font-family: 'Google Sans', -apple-system, BlinkMacSystemFont, sans-serif !important;
+    font-weight: 500 !important;
+}
+
+.wy-nav-content {
+    max-width: 999px !important;
+}

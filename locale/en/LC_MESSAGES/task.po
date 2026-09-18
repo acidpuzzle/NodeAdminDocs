@@ -1,0 +1,234 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Павлов Алексей
+# This file is distributed under the same license as the NodeAdmin
+# документация package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NodeAdmin документация \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-18 15:53+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/task/command.rst:2 842a8dd04ae7483187d3964ad098255b
+msgid "Команды"
+msgstr ""
+
+#: ../../source/task/command.rst:4 ../../source/task/render_process.rst:4
+#: ../../source/task/render_result.rst:4 ../../source/task/send_command.rst:4
+#: ../../source/task/send_command_result.rst:4 ../../source/task/template.rst:4
+#: 08dde7921371471fbaa44bb9dacdbad8 6681464dbf624c2e9c8791967e49ab1f
+#: 7a920c61dd794eb28acd5e15c8473cc6 83602d8884574403b4e5c371c5716cfd
+#: 9014be253dc0491db12ce9216ea34271 d05afd3977c74e179199ea643fd7ba28
+msgid "*Имя сушности* — это ..."
+msgstr ""
+
+#: ../../source/task/command.rst:9 ../../source/task/render_process.rst:9
+#: ../../source/task/render_result.rst:9 ../../source/task/send_command.rst:9
+#: ../../source/task/send_command_result.rst:9 ../../source/task/template.rst:9
+#: 21bd521f00574ecf8e2134e6e99cd489 afa78d91cf624bf5878ce744da198310
+#: b5100320b4c046568bce8c8004ccaa69 bb362ddbc8a146e6a440be466af05153
+#: fa6404721f0b4ae78059f51312235a02 fbe1ef433b634a34abc00d664f7cce96
+msgid "Поля формы"
+msgstr ""
+
+#: ../../source/task/command.rst:11 ../../source/task/render_process.rst:11
+#: ../../source/task/render_result.rst:11 ../../source/task/send_command.rst:11
+#: ../../source/task/send_command_result.rst:11
+#: ../../source/task/template.rst:11 14ce40efdfe94d49a69bb44f03fcb2fa
+#: 4ecce40055f34d29befa8dc7e057c2a0 70fc9e89185644c789eded922513b05b
+#: 7c87cc3c48fb45ad98a1113d6476d778 9dbdcf2c4c744a2c83d3b394d7342bcf
+#: ec7fd020a43647ba860a887ab3e66769
+msgid "**Name** - это ... ..."
+msgstr ""
+
+#: ../../source/task/command.rst:17 ../../source/task/render_process.rst:17
+#: ../../source/task/render_result.rst:17 ../../source/task/send_command.rst:17
+#: ../../source/task/send_command_result.rst:17
+#: ../../source/task/template.rst:17 324792c7fcab4cec98530005b59ffffe
+#: 79e7e5ee18ef468bb493cc01cd793f7f 810b4e755458439faa7ca94d2f997202
+#: a6053949d24e48a3ad86cf1b62098cf9 b86867f8df894254bb9d3f6c96c33cc9
+#: de3cb5adc5fd435aa528ddb465235f80
+msgid "Уникальность"
+msgstr ""
+
+#: ../../source/task/command.rst:19 ../../source/task/render_process.rst:19
+#: ../../source/task/render_result.rst:19 ../../source/task/send_command.rst:19
+#: ../../source/task/send_command_result.rst:19
+#: ../../source/task/template.rst:19 0854ac62e6ce4f349684ed2a45345b94
+#: 41edef884a534a30aa20cb702bdc097e a73f475a45f34f5498484dc078d71baf
+#: cf6f396d9803457c9ab8163c77d5d421 ee0379098dd340edaceaa4cd44b656df
+#: f285014c171847108bddfafccf16bf53
+msgid "Уникальность достигается ..."
+msgstr ""
+
+#: ../../source/task/command.rst:24 ../../source/task/render_process.rst:24
+#: ../../source/task/render_result.rst:24 ../../source/task/send_command.rst:24
+#: ../../source/task/send_command_result.rst:24
+#: ../../source/task/template.rst:24 22a15e84384a4943a0e479c9a2e61988
+#: 4f9ba71dc1134272855370050d4deb23 8b3cda446d5f481f9243ced190a8a210
+#: 8cd3f228826147b899ecdd8e6cfa8fcb 94c244f0da2340f3b4efbccf3b8339a0
+#: e4013d7e105a4aee828713eb9dded75c
+msgid "Колонки в базе"
+msgstr ""
+
+#: ../../source/task/command.rst:27 ../../source/task/render_process.rst:27
+#: ../../source/task/render_result.rst:27 ../../source/task/send_command.rst:27
+#: ../../source/task/send_command_result.rst:27
+#: ../../source/task/template.rst:27 192870a2af044e03933dc613b1cf150e
+#: 1cbbc7ca4570456a840e79e5c5b41f0a 1f1fdd7bfcda4b7ba78e0b36ec0678f9
+#: 31cc85b47f4a443da5e6b7961ec4b917 e355cc7cf7e84c0f8efccf91a6da4ccb
+#: f68931a1a44d42219ae9938a2c0093d8
+msgid "Колонка"
+msgstr ""
+
+#: ../../source/task/command.rst:27 ../../source/task/render_process.rst:27
+#: ../../source/task/render_result.rst:27 ../../source/task/send_command.rst:27
+#: ../../source/task/send_command_result.rst:27
+#: ../../source/task/template.rst:27 25e9ae41bbdf484fb65aa8c0d2778dea
+#: a342d113e36c4d369bbafa28d2893966 a5d0daf806fd4c5d89e61a6701b60572
+#: ab0e5d1baeb642699975aa89fb2e566a b247baed40fe417ab2bfec9ac55757a7
+#: fb879fb573fe47eb9a0e494e7419be4b
+msgid "Тип"
+msgstr ""
+
+#: ../../source/task/command.rst:27 ../../source/task/render_process.rst:27
+#: ../../source/task/render_result.rst:27 ../../source/task/send_command.rst:27
+#: ../../source/task/send_command_result.rst:27
+#: ../../source/task/template.rst:27 339d97190d324c84824116cd4dc29513
+#: 4a13ec681cd849bb8c2434b13ff61355 6121dde1032046fa9af7d4fd2b1c39da
+#: 81a6acac8bd8447bbfd7a602ee5db58e a638893e145043d6846c4b220f66faef
+#: df41219a0fe14600b811ada4ac8230d9
+msgid "Not Null"
+msgstr ""
+
+#: ../../source/task/command.rst:27 ../../source/task/render_process.rst:27
+#: ../../source/task/render_result.rst:27 ../../source/task/send_command.rst:27
+#: ../../source/task/send_command_result.rst:27
+#: ../../source/task/template.rst:27 61d28958e1cb4f01b41d783e13c6e8a8
+#: 6301934af3e542d8add966a5675a7ba8 64640131d0a74071bf7092037507b6c2
+#: 8a1cca0a3a704004a5f4889e89e27672 a01fc767ce3d4dadb46a2031d007fd45
+#: c038d1b424d145b787eb4a3e3256481b
+msgid "По умолчанию"
+msgstr ""
+
+#: ../../source/task/command.rst:27 ../../source/task/render_process.rst:27
+#: ../../source/task/render_result.rst:27 ../../source/task/send_command.rst:27
+#: ../../source/task/send_command_result.rst:27
+#: ../../source/task/template.rst:27 01f9a4c3687a4561994b8f318303c5c7
+#: 3f0a68b8ff1e4a128f5e2f2e44d32b90 8b881fc3a98d4d6a950340bdd79905c2
+#: b3796218024140358d3e6b5a1ee4cba9 e5e204996a6b40dba3fda6a6ccab1fbc
+#: f18f423357634b7aae0822d38c41f7f8
+msgid "Коментарий"
+msgstr ""
+
+#: ../../source/task/command.rst:29 ../../source/task/render_process.rst:29
+#: ../../source/task/render_result.rst:29 ../../source/task/send_command.rst:29
+#: ../../source/task/send_command_result.rst:29
+#: ../../source/task/template.rst:29 1f238a8e0c7e48529e5f34eb05f76897
+#: 5f44f1d19438469eacf027822ded199d 8ba62fe5925c42edade9c955c3e24e2f
+#: 8df99fd3e94d404682cdc3b03cbb8950 abfecd9e0e9a4c5e8353a059ea0aa5e2
+#: b3cb8dd7fd184720aa1c75bca086f60b
+msgid "name"
+msgstr ""
+
+#: ../../source/task/command.rst:29 ../../source/task/render_process.rst:29
+#: ../../source/task/render_result.rst:29 ../../source/task/send_command.rst:29
+#: ../../source/task/send_command_result.rst:29
+#: ../../source/task/template.rst:29 0f1320d2dbc54127b08ad1fd5b04773e
+#: 3c14f4c5184d4451ab10271111d07876 42e6708ed3c64734baa637c518043142
+#: 551a66deb62a488a98e0c53cc9caca34 5b9b72fbaeff4631a10c7f69551d0723
+#: 65eef2a1d94749128de412ff59a95269
+msgid "varchar(255)"
+msgstr ""
+
+#: ../../source/task/command.rst:29 ../../source/task/render_process.rst:29
+#: ../../source/task/render_result.rst:29 ../../source/task/send_command.rst:29
+#: ../../source/task/send_command_result.rst:29
+#: ../../source/task/template.rst:29 05ce1ddf503a4318a2ee7d9380abda19
+#: 41e7a3345b1f4d50871eeaaf192cbf9b 4c30224760c744a78c2b83777e77fcae
+#: 535b7df58b8b473eb85b07bf1648c9c9 558348150c3149838c3899f7f607229a
+#: dea1eb1d55034f60836dff19eec40d57
+msgid "Да"
+msgstr ""
+
+#: ../../source/task/command.rst:29 ../../source/task/render_process.rst:29
+#: ../../source/task/render_result.rst:29 ../../source/task/send_command.rst:29
+#: ../../source/task/send_command_result.rst:29
+#: ../../source/task/template.rst:29 23d15a8e03c4461f9e6a4e58faa18e0c
+#: 3f21e394e0c64b0aafd7f343dce26b0f 4dd10bea70664195816f9e6b1f3303f0
+#: 71f98c5757474d5ca059a2aa3bbc9acc dcd5eb0ce0ba457a8cea08c95ff19c7a
+#: de67256085e54bc1afeab3b5132ff896
+msgid "Нет"
+msgstr ""
+
+#: ../../source/task/command.rst:36 ../../source/task/render_process.rst:36
+#: ../../source/task/render_result.rst:36 ../../source/task/send_command.rst:36
+#: ../../source/task/send_command_result.rst:36
+#: ../../source/task/template.rst:36 620175305d4b46f3bb28fc35aafd1dca
+#: 6add62d2c1804ea9b23211e290460846 8f33435fd3df43d695d3a7ec83a3efd9
+#: afea6264472f4546a8279e9c39c4dcd8 d89aff3b101c4f0f95d9010af2bc0b3e
+#: e0b7f76eea3d4763a4a1dc58476b5016
+msgid "..."
+msgstr ""
+
+#: ../../source/task/command.rst:41 ../../source/task/render_process.rst:41
+#: ../../source/task/render_result.rst:41 ../../source/task/send_command.rst:41
+#: ../../source/task/send_command_result.rst:41
+#: ../../source/task/template.rst:41 3bc4a8802b614663b140398432a6b7a3
+#: 59848ae030824868842668e379addee0 74ec4539116f4d5dad2e5cc2835a73ba
+#: bcc7eb66a09f461b9d0deaa01e90658a d87d7ee0eca3420b9d208807f32fc765
+#: da277b65fb994fc99262086cb9771782
+msgid "Зависимости"
+msgstr ""
+
+#: ../../source/task/command.rst:43 ../../source/task/render_process.rst:43
+#: ../../source/task/render_result.rst:43 ../../source/task/send_command.rst:43
+#: ../../source/task/send_command_result.rst:43
+#: ../../source/task/template.rst:43 3afcd5fc844e464db8346e020a9eafe0
+#: 4b9a0a68fbbf4c9ea98bcaabf78fc338 78afe4e3e50942f6a2338edfc7b31c1d
+#: 84def717ae8943f99f0d84136341a133 9792ac553e824cbf924855b1f6a0ff25
+#: be3b2b81480c497ba749b2ff1db7dab8
+msgid "**На кого ссылается**"
+msgstr ""
+
+#: ../../source/task/command.rst:45 ../../source/task/render_process.rst:45
+#: ../../source/task/render_result.rst:45 ../../source/task/send_command.rst:45
+#: ../../source/task/send_command_result.rst:45
+#: ../../source/task/template.rst:45 1b0a48b72de3448991436d44e85dd96c
+#: 6d8ee2a4f78940f3a9e8cdf540f3eb42 7638abf60612464093489308bea7c261
+#: 8140441e758d4bf3afc027ad0105b5ac dbbdb4b1732f451cab1c2694f624bbc7
+#: e0a51e836d1a4ab495fb6914cf8b4cc8
+msgid "**Кто ссылается**"
+msgstr ""
+
+#: ../../source/task/render_process.rst:2 70dc06ac2b3e41998faa0347ce350040
+msgid "Рендер конфигураций"
+msgstr ""
+
+#: ../../source/task/render_result.rst:2 8e3e4b6045eb426da61dd30c07348a11
+msgid "Готовые конфигурации"
+msgstr ""
+
+#: ../../source/task/send_command.rst:2 01bd29e218d646bc9c44f79e97d0bc39
+msgid "Отправка команд"
+msgstr ""
+
+#: ../../source/task/send_command_result.rst:2 e4c780d417df42958e8b2be0b74e94f6
+msgid "Результат"
+msgstr ""
+
+#: ../../source/task/template.rst:2 e21bc0fa980b43a4abf3d98eb365fce0
+msgid "Шаблоны конфигураций"
+msgstr ""
+

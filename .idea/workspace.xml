@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="482fcc29-4b0e-4519-8b03-5fba02d08022" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/NodeAdminDocs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.readthedocs.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/make.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/GoogleSans-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/GoogleSans-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/GoogleSans-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/GoogleSans-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/GoogleSans-MediumItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/GoogleSans-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/GoogleSans-SemiBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/GoogleSans-SemiBoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/GoogleSans_17pt-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/GoogleSans_17pt-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/GoogleSans_17pt-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/GoogleSans_17pt-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/GoogleSans_17pt-MediumItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/GoogleSans_17pt-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/GoogleSans_17pt-SemiBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/GoogleSans_17pt-SemiBoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/JetBrainsMono-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/JetBrainsMono-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/JetBrainsMono-ExtraBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/JetBrainsMono-ExtraBoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/JetBrainsMono-ExtraLight.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/JetBrainsMono-ExtraLightItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/JetBrainsMono-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/JetBrainsMono-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/JetBrainsMono-LightItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/JetBrainsMono-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/JetBrainsMono-MediumItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/JetBrainsMono-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/JetBrainsMono-SemiBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/JetBrainsMono-SemiBoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/JetBrainsMono-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_static/fonts/JetBrainsMono-ThinItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/conf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/device/cli_profile.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/device/device.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/device/device_role.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/device/device_user.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/device/interface.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/device/interface_type.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/device/model.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/device/vendor.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/index.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/intro/audience.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/intro/goals.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/location/location.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/network/acl.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/network/acl_rule.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/network/domain.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/network/ipaddress.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/network/network.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/network/network_type.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/network/security_zone.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/network/vlan.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/network/vrf.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/task/command.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/task/render_process.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/task/render_result.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/task/send_command.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/task/send_command_result.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/task/template.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/user/group.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/user/user.rst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3IfnNX18BASvGvVvFiGCwiuLGW7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/dev/PycharmProjects/NodeAdminDocs/source/interface&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\PycharmProjects\NodeAdminDocs\source\interface" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\PycharmProjects\NodeAdminDocs\source" />
+      <recent name="D:\dev\PycharmProjects\NodeAdminDocs\source\intro" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="482fcc29-4b0e-4519-8b03-5fba02d08022" name="Changes" comment="" />
+      <created>1788164451032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788164451032</updated>
+    </task>
+    <servers />
+  </component>
+</project>
