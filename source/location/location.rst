@@ -21,11 +21,11 @@
 Поля формы
 ----------
 
-**Name**
+**Name** - название локации
 
-**description**
+**description** - коментарий
 
-**type**
+**type** - тип локации
 
 **Location is active**
 
